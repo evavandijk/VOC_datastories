@@ -1,6 +1,5 @@
 # VOC_datastories
-Data stories for the VOC thesis projects
+Data stories for the VOC thesis projects.
 
-The implementation of the datastories can be found in the jupyter notebook file. This data story tells something about the VOC dataset, which contains personal record of employees within the VOC. In the first part of the data story, the place of birth of employees was analyzed by drawing a map and making multiple graphs. Also, the amount of employees over time was analyzed using a graph to give insight into the growth of the VOC.
+To give insight into the dataset of the VOC, which contains personal record of employees within the VOC, a data story was made by Barry Hendriks and Eva van Dijk in a Jupyter Notebook. There were four main parts for the data story plus an analysis of an individual in the dataset. The four main parts were: a word cloud of the employee's name, the amount of each rank available in the dataset, a map showing places of birth and the amount of employees over time within the VOC. The analysis of the individual focused on extracting information from his notary documents (Barry) and analyzing his career (Eva). 
 
-The second part of the datastories focused on the career of an individual. Several aspect of his career were highlighted, for example: service time, the amount of travels and promotions/demotions. 
